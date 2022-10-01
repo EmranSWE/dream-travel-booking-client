@@ -1,0 +1,43 @@
+[
+    {
+      "id": "63261807b808a5b07733877c",
+      "img": "https://makaanlelo.com/tfdl_products_007/triper/react/demo/static/media/img5.dc5c47b566cbd64137e0.jpg",
+      "name": "Weekdays in South America",
+      "about": "Voluptate ullamco anim cupidatat enim mollit adipisicing dolore culpa adipisicing.",
+      "country": "In elit ut id veniam non.",
+      "ratings": 3,
+      "prices": 323,
+      "people": 3
+    },
+    {
+      "id": "63261807d4e6a720a9b0cf43",
+      "img": "https://makaanlelo.com/tfdl_products_007/triper/react/demo/static/media/img6.5120b4242dbf201a04a2.jpg",
+      "name": "Weekdays in Philippines",
+      "about": "Est occaecat dolor aliqua consectetur ad.",
+      "country": "Tempor enim ad nostrud laboris velit ad exercitation enim.",
+      "ratings": 5,
+      "prices": 323,
+      "people": 3
+    },
+    
+    {
+      "id": "63261807d7fd9852df8c5780",
+      "img": "https://makaanlelo.com/tfdl_products_007/triper/react/demo/static/media/img4.37ebd3a0b5e40c9d71bc.jpg",
+      "name": "Weekdays in Australia",
+      "about": "Voluptate commodo do esse occaecat nulla aute ex eu sunt pariatur sit.",
+      "country": "Ex elit eiusmod nostrud laborum commodo Lorem adipisicing.",
+      "ratings": 2,
+      "prices": 323,
+      "people": 3
+    },
+    {
+      "id": "63261807dc26882a9b613609",
+      "img": "https://makaanlelo.com/tfdl_products_007/triper/react/demo/static/media/img3.bb1da2816c852d9f9d23.jpg",
+      "name": "Weekdays in India",
+      "about": "Tempor laborum nulla in et ex fugiat reprehenderit laboris magna laborum ea labore ex.",
+      "country": "Laboris sint est id minim eiusmod dolor adipisicing adipisicing sint aliquip officia culpa eiusmod reprehenderit.",
+      "ratings": 3,
+      "prices": 323,
+      "people": 2
+    }
+  ]
